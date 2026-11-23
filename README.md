@@ -10,15 +10,20 @@ Studying at École 42 (Data & AI). I like taking a project end to end, from the 
 
 ## What I'm building
 
-### [TrustyFile](https://github.com/edaubert42/trustyfile) · [trustyfile.com](https://www.trustyfile.com)
-
-Detects tampered invoices and documents: 14 forensic modules feed one trust score, with the evidence boxed on the page. In production, 1,400+ visits a month.
-
-<a href="https://www.trustyfile.com"><img src="https://github.com/edaubert42/trustyfile/raw/main/docs/demo.gif" alt="TrustyFile analyzing a tampered sample invoice" width="100%"></a>
-
-### [ApplAI](https://github.com/edaubert42/applai)
-
-Agents that prepare job applications while the candidate stays in control. Every agent is scored on an evaluation bench, and a human approves every send. Built from issues by coding agents in GitHub Actions; I review and merge every pull request.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.trustyfile.com"><img width="100%" src="https://github.com/edaubert42/trustyfile/raw/main/docs/demo.gif" alt="TrustyFile analyzing a tampered sample invoice"></a>
+      <h3><a href="https://github.com/edaubert42/trustyfile">TrustyFile</a> · <a href="https://www.trustyfile.com">trustyfile.com</a></h3>
+      Detects tampered invoices with 14 forensic modules and one trust score. In production, 1,400+ visits a month.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/edaubert42/applai"><img width="100%" src="applai-demo.gif" alt="ApplAI's review screen: offers scored by an agent, the candidate decides with one key"></a>
+      <h3><a href="https://github.com/edaubert42/applai">ApplAI</a></h3>
+      Agents prepare job applications, each scored on an evaluation bench; a human approves every send. 50+ merged pull requests, most opened by agents.
+    </td>
+  </tr>
+</table>
 
 ## Before
 
@@ -27,6 +32,6 @@ Agents that prepare job applications while the candidate stays in control. Every
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,c,cpp,bash,git" alt="Python, FastAPI, Docker, C, C++, Bash, Git">
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,supabase,c,cpp,bash,git,githubactions,gitlab" alt="Python, FastAPI, Docker, PostgreSQL, Supabase, C, C++, Bash, Git, GitHub Actions, GitLab">
 
-<img alt="Claude Code, every day" src="https://img.shields.io/badge/Claude_Code-every_day-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img alt="LLM APIs: Claude, Gemini, OpenAI" src="https://img.shields.io/badge/LLM_APIs-Claude_·_Gemini_·_OpenAI-334155?style=for-the-badge">
+<img alt="Claude Code, every day" src="https://img.shields.io/badge/Claude_Code-every_day-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img alt="LLM APIs: Claude, Gemini, OpenAI" src="https://img.shields.io/badge/LLM_APIs-Claude_·_Gemini_·_OpenAI-334155?style=for-the-badge"> <img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white">
