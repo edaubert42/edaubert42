@@ -32,6 +32,14 @@ Studying at École 42 (Data & AI). I like taking a project end to end, from the 
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,supabase,c,cpp,bash,git,githubactions,gitlab" alt="Python, FastAPI, Docker, PostgreSQL, Supabase, C, C++, Bash, Git, GitHub Actions, GitLab">
+**AI / LLM**  
+<img alt="LLM APIs: Claude, Gemini, OpenAI" src="https://img.shields.io/badge/LLM_APIs-Claude_·_Gemini_·_OpenAI-334155?style=for-the-badge"> <img alt="Claude Code, every day" src="https://img.shields.io/badge/Claude_Code-every_day-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img alt="Evals: prompt benches" src="https://img.shields.io/badge/Evals-prompt_benches-0F766E?style=for-the-badge">
 
-<img alt="Claude Code, every day" src="https://img.shields.io/badge/Claude_Code-every_day-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img alt="LLM APIs: Claude, Gemini, OpenAI" src="https://img.shields.io/badge/LLM_APIs-Claude_·_Gemini_·_OpenAI-334155?style=for-the-badge"> <img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white">
+**Backend & data**  
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase" alt="Python, FastAPI, PostgreSQL, Supabase">
+
+**Ship & ops**  
+<img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,git,linux" alt="Docker, GitHub Actions, GitLab, Git, Linux">
+
+**Also (École 42)**  
+<img src="https://skillicons.dev/icons?i=c,cpp,ts,bash" alt="C, C++, TypeScript, Bash">
