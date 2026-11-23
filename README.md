@@ -6,7 +6,7 @@
   <img alt="Open to AI engineering roles in Paris" src="https://img.shields.io/badge/Open_to-AI_engineering_roles-2dd4bf?style=for-the-badge">
 </p>
 
-Studying at École 42 (Data & AI). I like taking a project end to end, from the first talk with users to production, then watching how people use it to make it better.
+Studying at Ecole 42 (Data & AI). I like taking a project end to end, from the first talk with users to production, then watching how people use it to make it better.
 
 ## What I'm building
 
@@ -41,5 +41,5 @@ Studying at École 42 (Data & AI). I like taking a project end to end, from the 
 **Ship & ops**  
 <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,git,linux" alt="Docker, GitHub Actions, GitLab, Git, Linux">
 
-**Also (École 42)**  
+**Also (Ecole 42)**  
 <img src="https://skillicons.dev/icons?i=c,cpp,ts,bash" alt="C, C++, TypeScript, Bash">
