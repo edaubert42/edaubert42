@@ -6,7 +6,7 @@
   <img alt="Open to AI engineering roles in Paris" src="https://img.shields.io/badge/Open_to-AI_engineering_roles-2dd4bf?style=for-the-badge">
 </p>
 
-Studying at Ecole 42 (Data & AI). I like taking a project end to end, from the first talk with users to production, then watching how people use it to make it better.
+I like taking a project end to end, from the first talk with users to production, then watching how people use it to make it better. Business background (ESCP, then running a company), AI engineering at Ecole 42.
 
 ## What I'm building
 
@@ -20,7 +20,7 @@ Studying at Ecole 42 (Data & AI). I like taking a project end to end, from the f
     <td width="50%" valign="top">
       <a href="https://github.com/edaubert42/applai"><img width="100%" src="applai-demo.gif" alt="ApplAI's review screen: offers scored by an agent, the candidate decides with one key"></a>
       <h3><a href="https://github.com/edaubert42/applai">ApplAI</a></h3>
-      Agents prepare job applications, each scored on an evaluation bench; a human approves every send. 50+ merged pull requests, most opened by agents.
+      Agents find job offers, draft letters and fill the forms. Each step earns its autonomy: it runs on its own only once I stop correcting it, and every agent is scored on a fixed test set. Nothing is sent without my click.
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@ Studying at Ecole 42 (Data & AI). I like taking a project end to end, from the f
 ## Before
 
 - **CybelAngel**, AI engineering intern: LLM alert triage for analysts, about 70% of alerts dismissed automatically, and a prompt evaluation loop.
-- **Motorcycle school**, partner and director: 9,000+ students a year, €2.8M revenue, about 15 staff.
+- **EasyMonneret**, France's #1 motorcycle school, partner and director: 9,000+ students a year, €2.8M revenue, about 15 staff.
 
 ## Stack
 
